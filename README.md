@@ -5,5 +5,8 @@ Esta linea representa el primer commit por interfaz web de repositorio remoto gi
 
 Esta linea representa el segundo commit por interfaz web de repositorio remoto github.com
 
+Esta línea representa el primer commid por terminal a un repositorio remoto en github.com
 
-Este es el primer commit por la consola de maquina virtual
+Esta línea representa el primer commid por terminal a un repositorio remoto en github.com
+
+Esta linea representa el uso de SourceControl para manejo de repositorios con Virtual Studio Code
