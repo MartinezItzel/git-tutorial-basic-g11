@@ -10,3 +10,5 @@ Esta línea representa el primer commid por terminal a un repositorio remoto en 
 Esta línea representa el segundo commid por terminal a un repositorio remoto en github.com
 
 Esta linea representa el uso de SourceControl para manejo de repositorios con Virtual Studio Code
+
+Esta linea representa el primer commit con interfaz visual con GitHub Desktop
