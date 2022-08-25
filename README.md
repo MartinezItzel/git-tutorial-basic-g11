@@ -13,4 +13,6 @@ Esta linea representa el uso de SourceControl para manejo de repositorios con Vi
 
 Esta linea representa el primer commit con interfaz visual con GitHub Desktop
 
-Esta linea representa ujn commit por terminal en la carpeta Git para ejecutar git pull en GitHub Desktop
+Esta linea representa un commit por terminal en la carpeta Git para ejecutar git pull en GitHub Desktop
+
+Esta linea representa el uso de SourceControl para manejo de repositorios con Virtual Studio Code
